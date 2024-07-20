@@ -1,0 +1,68 @@
+body {
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      
+    background-color: dimgrey;
+    
+}
+
+.container {
+  margin: 10px;
+  padding: 10px;
+  background-color: saddlebrown;
+  align-items: center;
+  justify-items: center;
+  text-align: center;
+  border: solid green 3px;
+  border-radius: 10px;
+}
+
+.QRcode-img {
+  margin: 10px;
+  padding: 10px;
+   
+  
+  width: auto;
+  height: auto;
+  
+}
+
+#text {
+  margin: 10px;
+  padding: 10px;
+  background-color:  gray;
+  border: groove red 2px;
+  border-radius: 5px;
+  color: red;
+  
+  
+
+}
+
+.img-QR {
+  margin: 5px;
+  padding: 5px;
+  width: px;
+  height: px;
+   
+}
+
+a , p {
+  text-decoration-line: none;
+  color: #fff;
+}
+
+.get-QRcode {
+  margin: 10px;
+  padding: 10px;
+  border: solid red 2px;
+  border-radius: 10px;
+  color: #fff;
+  background-color: black;
+  
+  
+}
+
+
+
+

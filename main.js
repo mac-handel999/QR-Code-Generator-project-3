@@ -7,7 +7,7 @@
  
  btn.addEventListener('click', () => {
    if (text.value !==  "  ") {
-     img.src = "/images/QR code.png";
+     img.src = "images/QR code.png";
      img.innerHTML = img;
      
      img.style.border =  "solid black 3px";
